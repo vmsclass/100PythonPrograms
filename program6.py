@@ -1,3 +1,4 @@
+# program to check the given number is even or odd number
 number = int(input("Enter a number"))
 
 if number%2 == 0:
@@ -6,3 +7,4 @@ else:
     print("The number is odd")
     
     
+
